@@ -1,0 +1,69 @@
+.stretch{
+    align-items: stretch;
+ }
+
+#menu {
+    display:flex;
+ align-items:center;
+ justify-content:center;
+ text-align:center;
+ font-family:Verdana;
+ background-color:#000000;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:16pt;
+ 
+ height:25vh;
+}
+ 
+ #menu a {
+ text-decoration:none;
+ color:#3399ff;}
+ 
+ #menu li {
+ display: inline;
+ padding: 0 20px 0 20px;}
+
+ #menu li a:hover {
+    color: #f1f1e2;
+    transition:  0.5s;
+    transform: scale(8);
+ }
+ .imagem {
+    max-width: 150px;
+ }
+ 
+ .aumenta:hover{
+    font-size: 130%;
+    transition: 0.5s;
+    transform: scale(1.1);
+ }
+
+ .imagem2 {
+    width: 150px;
+    height: 150px;
+ }
+
+.container{
+    display:flex ;
+}
+
+.principal {
+    display: flex;
+    border:solid #3399ff;
+    margin-top: 10px;
+}
+ 
+.texto{
+   margin-left: 5%;
+   max-width: 750px;
+   text-align: center;
+   font-size:25px;
+}
+
+.davi {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}

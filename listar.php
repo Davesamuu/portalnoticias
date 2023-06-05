@@ -24,8 +24,8 @@ if (count($cadastros) == 0) {
                 <th>id</th>
                 <th>titulo_noticia</th>
                 <th>conteudo_noticia</th>
-                <th>foto_noticia</th>
                 <th>autor_noticia</th>
+                <th>foto_noticia</th>
                 <th>data_publicacao_noticia</th>
                 <th colspan="2">Opções</th>
                 </tr></thead>';

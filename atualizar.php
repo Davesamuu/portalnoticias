@@ -29,10 +29,10 @@ $data_publicacao_noticia = $appointment['data_publicacao_noticia'];
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="atualizar.css">
-    <title>Atualizar Compromisso</title>
+    <title>Atualizar Noticia</title>
 </head>
 <body>
-    <h1>Atualizar Compromisso</h1>
+    <h1>Atualizar Noticia</h1>
     <form method="post">
 
         <label for="titulo_noticia">Título da Notícia:</label>
